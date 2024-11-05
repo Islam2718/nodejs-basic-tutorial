@@ -6,7 +6,7 @@
 
 
 ## NodeJs Module 
-    Module is a set of functions (like - Js libraries such as Math). 
+Module is a set of functions (like - Js libraries such as Math). 
 
 ## Types: 
 
