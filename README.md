@@ -6,7 +6,7 @@
 * [fs-module](https://github.com/Islam2718/nodejs-basic-tutorial/blob/main/PracticeFiles/fs-module/)
 * [os-path-module](https://github.com/Islam2718/nodejs-basic-tutorial/blob/main/PracticeFiles/os-path-module/)
 * [server-module](https://github.com/Islam2718/nodejs-basic-tutorial/blob/main/PracticeFiles/server-module/)
-* [file-system (http, res, req)-module](https://github.com/Islam2718/nodejs-basic-tutorial/blob/main/PracticeFiles/manage-files/)
+* [Response (status, body, header)-module](https://github.com/Islam2718/nodejs-basic-tutorial/blob/main/PracticeFiles/manage-files/)
 
 
 ## NodeJs Module 
