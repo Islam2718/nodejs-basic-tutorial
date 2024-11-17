@@ -8,7 +8,7 @@ const port = 3000;
 const host = 'localhost';
 
 const server = http.createServer((req, res) => {
-    res.end('Hello World');
+    res.end('Welcome to Server');
 });
 
 server.listen(port, ()=>{
